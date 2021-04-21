@@ -10,6 +10,7 @@
 ## Introduction
 
 ---
+
 This is a synthetic dataset built to develop an intelligent speed detection system. This dataset has been generated with the Carla Simulator, and has sequences recorded from a single point of view, with a camera centered on the road at a height of 3 meters, with an inclination of 45 degrees.
 
 "Data-driven vehicle speed detection from synthetic driving simulator images", A. Hernández, etal., 2021 [[arxiv](https://arxiv.org/abs/2104.09903)]
@@ -19,7 +20,9 @@ This is a synthetic dataset built to develop an intelligent speed detection syst
   <img src="figs/Image02.jpg" width="280" /> 
   <img src="figs/Image03.jpg" width="280" />
 </p>
+
 ---
+
 ## Requirements
 
 * python                    3.8.5
