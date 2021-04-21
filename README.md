@@ -5,9 +5,9 @@ This is a synthetic dataset built to develop an intelligent speed detection syst
 "Data-driven vehicle speed detection from synthetic driving simulator images", A. Hernández, etal., 2021 [[arxiv](https://arxiv.org/abs/2104.09903)]
 
 <p align="center">
-  <img src="figs/Image01.jpg" width="280" />
-  <img src="figs/Image02.jpg" width="280" /> 
-  <img src="figs/Image03.jpg" width="280" />
+  <img src="figs/Image01.png" width="280" />
+  <img src="figs/Image02.png" width="280" /> 
+  <img src="figs/Image03.png" width="280" />
 </p>
 
 ## Requirements
