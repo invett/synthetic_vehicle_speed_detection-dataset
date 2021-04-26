@@ -24,7 +24,28 @@ This is a synthetic dataset built to develop an intelligent speed detection syst
 You can download the dataset (images in JPG format and annotations in JSON-like format) from [here](https://universidaddealcala-my.sharepoint.com/:f:/g/personal/antonio_hernandezm_uah_es/Ekc3fwPznEpBlXMMLf4X6LUBSla5SYtRefCCPG9SPCbxzg?e=GaZTUT)
 
 ---
+## Data processing
 
+The images in this dataset are labeled with the json file that can be found in the download link. An example element can be seen below:
+ 
+ ```
+ {'elapsed_seconds': 2.058767163194716,
+ 'delta_seconds': 0.012500000186264515,
+ 'frame': 5207,
+ 'platform_timestamp': 597544.376398325,
+ 'x': 392.1999816894531,
+ 'y': 304.0,
+ 'velocity': 24.0424747467041,
+ 'player_id': 259,
+ 'player_type': 'vehicle.carlamotors.carlacola',
+ 'attributes': {'number_of_wheels': '4',
+  'sticky_control': 'true',
+  'object_type': '',
+  'color': '255,68,0',
+  'role_name': 'hero'},
+ 'weather_type': 'WeatherParameters(cloudiness=30.000000, cloudiness=30.000000, precipitation=40.000000, precipitation_deposits=40.000000, wind_intensity=30.000000, sun_azimuth_angle=250.000000, sun_altitude_angle=20.000000, fog_density=15.000000, fog_distance=50.000000, fog_falloff=0.900000, wetness=80.000000)'}
+   ```
+---
 ## Requirements
 
 * python                    3.8.5
