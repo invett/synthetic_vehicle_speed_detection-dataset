@@ -29,7 +29,6 @@ You can download the dataset and its labeling from [here](https://universidaddea
 
 * python                    3.8.5
 * numpy                     1.17.4
-* json                      2.0.9 
 * pygame                    2.0.0
 * Carla                     0.9.10
 
