@@ -23,6 +23,10 @@ This is a synthetic dataset built to develop an intelligent speed detection syst
 
 You can download the dataset (images in JPG format and annotations in JSON-like format) from [here](https://universidaddealcala-my.sharepoint.com/:f:/g/personal/antonio_hernandezm_uah_es/Ekc3fwPznEpBlXMMLf4X6LUBSla5SYtRefCCPG9SPCbxzg?e=GaZTUT)
 
+The provided "DataSet Generator.py" code creates a new simulation, and records the images at 80 fps. Due to the image processing and recording, the dataset generation process may take some time to complete. 
+
+The file created by this code can be transformed to json with the file "dict2json.py".
+
 ---
 ## Data processing
 
